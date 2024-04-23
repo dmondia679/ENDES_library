@@ -1,6 +1,6 @@
 package com.endes.library;
 
-public enum AccountState {
+	enum AccountState {
 	Active,
 	Frozen,
 	Closed
